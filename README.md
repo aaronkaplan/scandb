@@ -3,6 +3,10 @@
 This is an initial draft version of a database to keep track of authorized scanning of networks.
 The basic idea is that a client authorizes a scan for a specific network. The pentester doing the scan uses one to multiple scanners with multiple scan modules for each IP address in every network range of the client.
 
+Author:
+L. Aaron Kaplan <aaron-at-sign-lo-res.org>, done in his spare time.
+
+
 ## EER
 
 Here is an Extended Entity Relationship diagram
