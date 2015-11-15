@@ -1,0 +1,4 @@
+*.pyc
+sdb/migrations/*.py
+*.swp
+netfields
