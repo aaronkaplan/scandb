@@ -1,0 +1,306 @@
+[
+  {
+    "fields": {
+        "name": "Nessus",
+        "url": "http://www.tenable.com/products/nessus-vulnerability-scanner"
+    },
+    "model": "sdb.scanner",
+    "pk": 1
+  },
+  {
+    "fields": {
+      "name": "Acunetix WVS",
+      "url": "http://www.acunetix.com/"
+    },
+    "model": "sdb.scanner",
+    "pk": 2
+  },
+  {
+    "fields": {
+      "name": "AppScan",
+      "url": "http://www-01.ibm.com/software/rational/offerings/websecurity/"
+    },
+    "model": "sdb.scanner",
+    "pk": 3
+  },
+  {
+    "fields": {
+      "name": "AVDS",
+      "url": "http://www.beyondsecurity.com/avds"
+    },
+    "model": "sdb.scanner",
+    "pk": 4
+  },
+  {
+    "fields": {
+      "name": "BugBlast",
+      "url": "http://www.buguroo.com"
+    },
+    "model": "sdb.scanner",
+    "pk": 5
+  },
+  {
+    "fields": {
+      "name": "Burp Suite",
+      "url": "http://www.portswigger.net/"
+    },
+    "model": "sdb.scanner",
+    "pk": 6
+  },
+  {
+    "fields": {
+      "name": "Contrast",
+      "url": "https://contrastsecurity.com"
+    },
+    "model": "sdb.scanner",
+    "pk": 7
+  },
+  {
+    "fields": {
+      "name": "GamaScan",
+      "url": "http://www.gamasec.com/Gamascan.aspx"
+    },
+    "model": "sdb.scanner",
+    "pk": 8
+  },
+  {
+    "fields": {
+      "name": "Grabber",
+      "url": "http://rgaucher.info/beta/grabber/"
+    },
+    "model": "sdb.scanner",
+    "pk": 9
+  },
+  {
+    "fields": {
+      "name": "Grendel-Scan",
+      "url": "http://sourceforge.net/p/grendel/code/ci/c59780bfd41bdf34cc13b27bc3ce694fd3cb7456/tree/"
+    },
+    "model": "sdb.scanner",
+    "pk": 10
+  },
+  {
+    "fields": {
+      "name": "GoLismero",
+      "url": "http://www.golismero.com"
+    },
+    "model": "sdb.scanner",
+    "pk": 11
+  },
+  {
+    "fields": {
+      "name": "Hailstorm",
+      "url": "http://www.cenzic.com/technology/index.html"
+    },
+    "model": "sdb.scanner",
+    "pk": 12
+  },
+  {
+    "fields": {
+      "name": "IKare",
+      "url": "http://www.ikare-monitoring.com/"
+    },
+    "model": "sdb.scanner",
+    "pk": 13
+  },
+  {
+    "fields": {
+      "name": "IndusGuard Web",
+      "url": "https://www.indusface.com/index.php/products/indusguard-web"
+    },
+    "model": "sdb.scanner",
+    "pk": 14
+  },
+  {
+    "fields": {
+      "name": "N-Stealth",
+      "url": "http://www.nstalker.com/"
+    },
+    "model": "sdb.scanner",
+    "pk": 15
+  },
+  {
+    "fields": {
+      "name": "Netsparker",
+      "url": "http://www.mavitunasecurity.com/"
+    },
+    "model": "sdb.scanner",
+    "pk": 16
+  },
+  {
+    "fields": {
+      "name": "Nexpose",
+      "url": "http://www.rapid7.com/products/nexpose-community-edition.jsp"
+    },
+    "model": "sdb.scanner",
+    "pk": 17
+  },
+  {
+    "fields": {
+      "name": "Nikto",
+      "url": "http://www.cirt.net/nikto2"
+    },
+    "model": "sdb.scanner",
+    "pk": 18
+  },
+  {
+    "fields": {
+      "name": "AppSpider",
+      "url": "http://www.rapid7.com/products/appspider/"
+    },
+    "model": "sdb.scanner",
+    "pk": 19
+  },
+  {
+    "fields": {
+      "name": "ParosPro",
+      "url": "http://www.milescan.com/"
+    },
+    "model": "sdb.scanner",
+    "pk": 20
+  },
+  {
+    "fields": {
+      "name": "Proxy.app",
+      "url": "http://www.websecurify.com/desktop/proxy.html"
+    },
+    "model": "sdb.scanner",
+    "pk": 21
+  },
+  {
+    "fields": {
+      "name": "QualysGuard",
+      "url": "http://www.qualys.com/products/qg_suite/was/"
+    },
+    "model": "sdb.scanner",
+    "pk": 22
+  },
+  {
+    "fields": {
+      "name": "Retina",
+      "url": "http://www.beyondtrust.com/Products/RetinaNetworkSecurityScanner/"
+    },
+    "model": "sdb.scanner",
+    "pk": 23
+  },
+  {
+    "fields": {
+      "name": "Securus",
+      "url": "http://www.orvant.com"
+    },
+    "model": "sdb.scanner",
+    "pk": 24
+  },
+  {
+    "fields": {
+      "name": "Sentinel",
+      "url": "http://www.whitehatsec.com/home/services/services.html"
+    },
+    "model": "sdb.scanner",
+    "pk": 25
+  },
+  {
+    "fields": {
+      "name": "Vega",
+      "url": "https://subgraph.com/vega/"
+    },
+    "model": "sdb.scanner",
+    "pk": 26
+  },
+  {
+    "fields": {
+      "name": "Wapiti",
+      "url": "http://wapiti.sourceforge.net/"
+    },
+    "model": "sdb.scanner",
+    "pk": 27
+  },
+  {
+    "fields": {
+      "name": "WebApp360",
+      "url": "http://www.tripwire.com/it-security-software/enterprise-vulnerability-management/web-application-vulnerability-scanning/"
+    },
+    "model": "sdb.scanner",
+    "pk": 28
+  },
+  {
+    "fields": {
+      "name": "WebInspect",
+      "url": "http://www8.hp.com/us/en/software-solutions/software.html?compURI=1341991#.Uuf0KBAo4iw"
+    },
+    "model": "sdb.scanner",
+    "pk": 29
+  },
+  {
+    "fields": {
+      "name": "SOATest",
+      "url": "http://www.parasoft.com/products/article.jsp?articleId=3169&redname=webtesting&referred=webtesting"
+    },
+    "model": "sdb.scanner",
+    "pk": 30
+  },
+  {
+    "fields": {
+      "name": "Trustkeeper Scanner",
+      "url": "https://www.trustwave.com/external-vulnerability-scanning.php"
+    },
+    "model": "sdb.scanner",
+    "pk": 31
+  },
+  {
+    "fields": {
+      "name": "WebReaver",
+      "url": "http://www.websecurify.com/desktop/webreaver.html"
+    },
+    "model": "sdb.scanner",
+    "pk": 32
+  },
+  {
+    "fields": {
+      "name": "WebScanService",
+      "url": "http://www.german-websecurity.com/en/products/webscanservice/product-details/overview/"
+    },
+    "model": "sdb.scanner",
+    "pk": 33
+  },
+  {
+    "fields": {
+      "name": "Websecurify Suite",
+      "url": "https://suite.websecurify.com/"
+    },
+    "model": "sdb.scanner",
+    "pk": 34
+  },
+  {
+    "fields": {
+      "name": "Wikto",
+      "url": "http://www.sensepost.com/research/wikto/"
+    },
+    "model": "sdb.scanner",
+    "pk": 35
+  },
+  {
+    "fields": {
+      "name": "w3af",
+      "url": "http://www.w3af.org/"
+    },
+    "model": "sdb.scanner",
+    "pk": 36
+  },
+  {
+    "fields": {
+      "name": "Xenotix XSS Exploit Framework",
+      "url": "https://www.owasp.org/index.php/OWASP_Xenotix_XSS_Exploit_Framework"
+    },
+    "model": "sdb.scanner",
+    "pk": 37
+  },
+  {
+    "fields": {
+      "name": "Zed Attack Proxy",
+      "url": "https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project"
+    },
+    "model": "sdb.scanner",
+    "pk": 38
+  }
+]
