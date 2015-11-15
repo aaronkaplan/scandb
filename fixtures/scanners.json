@@ -1,4 +1,48 @@
 [
+  { 
+	"fields": {
+		"name": "NMAP" ,
+		"url":  "http://www.insecure.org"
+	},
+    "model": "sdb.scanner",
+    "pk": 0
+  },
+  {
+    "fields": {
+        "name": "masscan" ,
+        "url": "https://github.com/robertdavidgraham/masscan"
+  	},
+    "model": "sdb.scanner",
+    "pk": -1 
+  },
+  {
+    "fields": {
+        "name": "zmap" ,
+        "url": "https://zmap.io/"
+  	},
+    "model": "sdb.scanner"
+  },
+  {
+    "fields": {
+        "name": "Superscan" ,
+  		"url": "http://www.foundstone.com"
+    },
+    "model": "sdb.scanner"
+  },
+  {
+    "fields": {
+        "name": "Angry IP Scanner",
+		"url":  "http://www.angryziber.com" 
+    },
+    "model": "sdb.scanner"
+  },
+  {
+    "fields": {
+        "name": "Unicornscan",
+		"url":  "http://www.unicornscan.org"
+    },
+    "model": "sdb.scanner"
+  },
   {
     "fields": {
         "name": "Nessus",
