@@ -2,7 +2,7 @@
 
 Scanner data taken from https://www.owasp.org/index.php/Category:Vulnerability_Scanning_Tools
 
-Addes manually:
+Added manually:
 
   * Nessus : http://www.tenable.com/products/nessus-vulnerability-scanner 
   * NMAP :  http://www.insecure.org 
