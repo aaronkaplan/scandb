@@ -73,6 +73,11 @@ python setup.py install
 ```
 
 
+Finally, install the fixtures:
+```bash
+./manage.py loaddata -v 2 fixtures/scanners.json
+```
+
 
 
 ## TODOs
