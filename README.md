@@ -86,6 +86,7 @@ Finally, install the fixtures:
     * Nmap
     * Acunetix
     * ...
+  * add service table
   * <del> DONE load the most common scanners (see above) as fixtures into the "scanner" table </del>
   * make a script to load Nessus/nmap/... scans into the scan result table
   * find a **comparable** metric  (does not need to be perfect! Just an indication of progress!) for scan results (e.g. a number between 1 and 10). Assign each scan result a metric score.
